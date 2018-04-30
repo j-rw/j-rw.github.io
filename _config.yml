@@ -268,3 +268,16 @@ defaults:
       related: false
       sidebar:
         nav: "sidenav"
+  # _home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "sidenav"
