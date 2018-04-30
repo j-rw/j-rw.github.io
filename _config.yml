@@ -266,3 +266,5 @@ defaults:
       comments: # true
       share: false
       related: false
+      sidebar:
+        nav: "sidenav"
